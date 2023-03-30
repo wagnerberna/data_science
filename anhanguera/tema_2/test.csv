@@ -1,0 +1,130 @@
+﻿Tipo;Ranking;CPU_Fabricante;CPU_Modelo;Memoria;HD;SO;Fabricante
+;C;Intel;i5;12178;14;Windows 10 Pro;HP
+Desktop;D;Intel;Quad;3991;466;Windows 7 Professional ;HP
+Desktop;D;AMD;X4;3067;298;Windows 7 Professional ;HP
+Desktop;D;AMD;X4;3583;932;Windows 7 Enterprise ;HP
+Desktop;D;AMD;X4;3071;298;Windows 7 Professional ;HP
+Desktop;D;AMD;Core;3823;149;Windows 7 Enterprise ;HP
+Desktop;D;Intel;Quad;3991;233;Windows 7 Enterprise ;HP
+Desktop;D;Intel;Quad;3991;233;Windows 7 Enterprise ;HP
+Desktop;D;AMD;X4;3583;466;Windows 7 Professional ;HP
+Desktop;D;AMD;X4;3583;298;Windows 7 Professional ;HP
+Desktop;D;AMD;X4;8187;224;Windows 7 Enterprise ;HP
+Desktop;D;AMD;X4;3583;224;Windows 7 Enterprise ;HP
+Desktop;C;Intel;i5;8082;466;Windows 7 Professional ;HP
+Desktop;C;Intel;Xeon;16306;466;Windows 7 Professional ;Dell
+Desktop;B;Intel;i5;8089;224;Windows 10 Pro;LENOVO
+Desktop;C;Intel;i3;7940;119;Windows 10 Pro;Dell
+Desktop;B;Intel;i5;8085;932;Windows 10 Pro;LENOVO
+Desktop;B;Intel;i5;8085;224;Windows 10 Pro;LENOVO
+Desktop;C;Intel;i5;16274;112;Windows 7 Professional ;HP
+Desktop;C;Intel;i3;8049;466;Windows 10 Pro;HP
+Desktop;C;Intel;i3;8049;112;Windows 10 Pro;HP
+Desktop;C;Intel;i3;8045;112;Windows 10 Pro;HP
+Desktop;C;Intel;i3;8049;112;Windows 10 Pro;HP
+Desktop;C;Intel;i3;8049;466;Windows 10 Pro;HP
+Desktop;C;Intel;i3;3842;932;Windows 11 Pro;LENOVO
+Desktop;C;Intel;i3;7938;112;Windows 10 Pro;LENOVO
+Desktop;C;Intel;i3;7926;112;Windows 11 Pro;LENOVO
+Desktop;C;Intel;i3;7938;932;Windows 10 Pro;LENOVO
+Desktop;B;Intel;i5;24489;224;Windows 10 Pro;System manufacturer
+Desktop;C;Intel;i3;7940;112;Windows 10 Pro;Dell
+Desktop;C;Intel;i3;7938;119;Windows 10 Pro;Dell
+Desktop;C;Intel;i3;7940;119;Windows 10 Pro;Dell
+Desktop;C;Intel;i3;7940;119;Windows 10 Pro;Dell
+Desktop;C;Intel;i3;7940;119;Windows 10 Pro;Dell
+Desktop;C;Intel;i3;7939;119;Windows 11 Pro;Dell
+Desktop;C;Intel;i3;7940;119;Windows 10 Pro;Dell
+Desktop;C;Intel;i3;7940;119;Windows 10 Pro;Dell
+Desktop;C;Intel;i3;7940;119;Windows 11 Pro;Dell
+Desktop;C;Intel;i3;7940;119;Windows 10 Pro;Dell
+Desktop;C;Intel;i3;7940;119;Windows 10 Pro;Dell
+Desktop;C;Intel;i3;7940;119;Windows 10 Pro;Dell
+Desktop;D;AMD;X4;3583;298;Windows 7 Enterprise ;HP
+Desktop;D;AMD;X4;7679;224;Windows 7 Professional ;HP
+Desktop;D;AMD;X4;3583;112;Windows 7 Professional ;HP
+Desktop;D;AMD;X4;6139;932;Windows 7 Professional ;HP
+Desktop;D;AMD;X4;4091;149;Windows 7 Professional ;HP
+Desktop;D;AMD;X4;3583;112;Windows 7 Professional ;HP
+Desktop;D;AMD;X4;3583;466;Windows 7 Professional ;HP
+Desktop;D;AMD;X4;3583;298;Windows 7 Enterprise ;HP
+Desktop;C;Intel;i3;8026;238;Windows 11 Pro;LENOVO
+Desktop;C;Intel;i5;7931;238;Windows 10 Pro;Dell
+Desktop;B;Intel;i5;8101;233;Windows 10 Pro;LENOVO
+Desktop;C;Intel;i3;7926;112;Windows 11 Pro;LENOVO
+Desktop;B;Intel;i5;7919;238;Windows 10 Pro;Dell
+Desktop;C;Intel;i3;7987;224;Windows 10 Pro;LENOVO
+Desktop;B;Intel;i5;8049;238;Windows 10 Pro;VAIO
+Desktop;C;Intel;i3;8049;238;Windows 10 Pro;VAIO
+Desktop;C;Intel;i3;8049;238;Windows 11 Pro;VAIO
+Desktop;C;Intel;i3;8026;238;Windows 11 Pro;LENOVO
+Desktop;C;Intel;i3;8026;238;Windows 11 Pro;LENOVO
+Desktop;C;Intel;i3;8026;238;Windows 11 Pro;LENOVO
+Desktop;A;Intel;i7;8051;1863;Windows 10 Pro;Dell
+Desktop;B;Intel;i5;8064;238;Windows 10 Pro;Dell
+Desktop;C;Intel;i3;8026;238;Windows 11 Pro;LENOVO
+Desktop;C;Intel;i3;8047;238;Windows 11 Pro;VAIO
+Desktop;C;Intel;i3;7975;238;Windows 10 Pro;LENOVO
+Notebook;C;Intel;Xeon;8191;40;Windows Server 2012 R2 Standard Evaluation;VMware, Inc.
+Desktop;;;;2012;466;Windows 7 Professional ;Gigabyte Technology Co., Ltd.
+Desktop;C;Intel;Xeon;8191;100;Windows Server 2019 Standard Evaluation;VMware, Inc.
+Desktop;D;AMD;X4;3583;466;Windows 7 Professional ;HP
+Desktop;D;Intel;Duo;2012;149;Windows XP Professional;Dell
+Desktop;D;AMD;X4;3583;298;Windows 7 Professional ;HP
+Desktop;D;AMD;X4;3071;298;Windows 7 Professional ;HP
+Desktop;D;AMD;X4;3583;233;Windows 7 Professional ;HP
+Desktop;D;AMD;X4;2813;466;Windows 7 Professional ;HP
+Desktop;D;AMD;X4;3583;112;Windows 7 Professional ;HP
+Desktop;E;Intel;Celeron;2014;149;Windows 7 Professional ;Dell
+Desktop;D;AMD;Core;1791;149;Windows 7 Enterprise ;HP
+Desktop;D;Intel;Duo;3036;149;Windows 7 Enterprise ;Dell
+Desktop;D;Intel;Quad;3579;233;Windows 7 Professional ;HP
+Desktop;D;Intel;Duo;3036;233;Windows 7 Enterprise ;Dell
+Desktop;D;Intel;Duo;2037;466;Windows 7 Enterprise ;Dell
+Desktop;D;Intel;Quad;3991;233;Windows 7 Enterprise ;HP
+Desktop;D;Intel;Duo;4061;233;Windows 7 Professional ;HP
+Desktop;E;Intel;Celeron;1983;233;Windows 7 Enterprise ;ATI___
+Desktop;D;Intel;Duo;3061;149;Windows 7 Enterprise ;Dell
+Desktop;D;Intel;Duo;2037;466;Windows 7 Enterprise ;Dell
+Desktop;D;Intel;Duo;3294;112;Windows 7 Enterprise ;Dell
+Desktop;D;Intel;Quad;4015;233;Windows 7 Enterprise ;HP
+Desktop;D;Intel;Duo;2014;149;Windows 7 Enterprise ;Dell
+Desktop;D;Intel;Duo;3061;932;Windows 7 Professional ;Dell
+Desktop;D;AMD;X4;2813;298;Windows 7 Enterprise ;HP
+Desktop;D;AMD;X4;3583;298;Windows 7 Enterprise ;HP
+Desktop;D;AMD;X4;3583;298;Windows 7 Professional ;HP
+Desktop;D;AMD;X4;3583;298;Windows 7 Professional ;HP
+Desktop;D;AMD;X4;7679;466;Windows 7 Enterprise ;HP
+Desktop;D;AMD;X4;3583;466;Windows 7 Professional ;HP
+Desktop;D;AMD;X4;3583;298;Windows 7 Professional ;HP
+Desktop;D;AMD;X4;3583;298;Windows 7 Enterprise ;HP
+Desktop;D;AMD;X4;3071;466;Windows 7 Enterprise ;HP
+Desktop;C;Intel;i5;8082;466;Windows 10 Pro;HP
+Desktop;C;Intel;i5;8082;466;Windows 10 Pro;HP
+Desktop;B;Intel;i5;8085;112;Windows 10 Pro;LENOVO
+Desktop;C;Intel;i3;7938;112;Windows 10 Pro;LENOVO
+Desktop;C;Intel;i3;7938;112;Windows 11 Pro;LENOVO
+Desktop;B;Intel;i5;8085;466;Windows 10 Pro;LENOVO
+Desktop;C;Intel;i3;7940;466;Windows 10 Pro;Dell
+Desktop;C;Intel;i3;7938;112;Windows 10 Pro;Dell
+Desktop;C;Intel;i3;7940;119;Windows 10 Pro;Dell
+Desktop;C;Intel;i3;7940;119;Windows 10 Pro;Dell
+Desktop;C;Intel;i3;7940;119;Windows 10 Pro;Dell
+Desktop;C;Intel;i3;7940;119;Windows 10 Pro;Dell
+Desktop;D;Intel;Duo;3020;149;Windows 7 Enterprise ;Dell
+Desktop;D;Intel;Duo;3020;149;Windows 7 Enterprise ;Dell
+Desktop;D;AMD;X4;5631;112;Windows 7 Enterprise ;HP
+Desktop;D;AMD;X4;3583;149;Windows 7 Professional ;HP
+Desktop;D;AMD;X4;3583;298;Windows 7 Professional ;HP
+Desktop;D;AMD;X4;3519;466;Windows 7 Professional ;HP
+Desktop;D;AMD;X4;4091;112;Windows 7 Professional ;HP
+Desktop;D;AMD;X4;3583;112;Windows 7 Professional ;HP
+Desktop;D;Intel;Quad;3579;298;Windows 7 Professional ;HP
+Desktop;D;Intel;Duo;3991;149;Windows 7 Professional ;HP
+Notebook;D;Intel;Duo;4060;233;Windows 7 Enterprise ;Dell
+Notebook;C;Intel;i3;8050;238;Windows 10 Pro;VAIO
+Desktop;C;Intel;Xeon;8191;1200;Windows Server 2012 R2 Standard Evaluation;VMware, Inc.
+Notebook;C;Intel;Xeon;4095;10;Windows Server 2012 R2 Standard;VMware, Inc.
+;C;Intel;Xeon;19451;600;Windows Server 2012 R2 Standard;VMware, Inc.
+Notebook;C;Intel;Xeon;8191;40;Windows Server 2019 Standard Evaluation;VMware, Inc.
+;C;Intel;Xeon;8191;60;Windows Server 2019 Standard Evaluation;VMware, Inc.
